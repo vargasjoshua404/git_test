@@ -1,1 +1,2 @@
 Hello world! Again!
+Using vim to create commit message.
